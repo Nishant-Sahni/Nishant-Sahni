@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am a 2nd year Computer Science & Engineering undergraduate , studying at IIT Ropar , India. 
+Currently working on a number of web development projects ( will be soon displayed on my profile) and I am eager to learn more about the field!
+Along with development , I am also passionate about data engineering , data analytics and computer architecture.
+
 
 <!--
 **Nishant-Sahni/Nishant-Sahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
