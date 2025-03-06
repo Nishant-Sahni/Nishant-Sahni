@@ -11,7 +11,8 @@ I'm an aspiring **web developer** and programmer, always looking for optimal and
 - 🗣️ **Avid Debater:** I've participated in, organized, and won medals in various parliamentary debate tournaments in college.<br/><br/>
 
 **Contributions**
-- [Aarohan 2025](aarohan25.vercel.app)  - Developing and managing the website of the Annual Sports Fest of IIT Ropar.
+- (<a href="aarohan25.vercel.app" target="_blank">Aarohan 2025</a>
+)  - Developing and managing the website of the Annual Sports Fest of IIT Ropar.
 - Public Entry Device - Created an end-to-end infrastructure to completely digitize the Entry-Exit process at the Main Campus Gate of IIT Ropar. This infrastructure will be used for years and decades to come. _Sadly , the source code is proprietary_.
 - [🔗 VDAT2025](https://github.com/AyushTyagi2/VDAT) - Developing and managing the website of the annual **[VLSI Design and Test conference](vdat.org.in)**.****
 <br/><br/>
