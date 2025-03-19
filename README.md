@@ -4,7 +4,7 @@ _and this README isn't written by ChatGPT :)_
 
 ## Computer Science & Engineering Undergraduate , IIT Ropar , India <br/>
 Welcome to my GitHub! <br/>
-I'm an aspiring **web developer** and programmer, always looking for optimal and efficient solutions. Besides development, I am also extremely interested inm **Data Engineering, Analytics📊, Computer Architecture and Digital Logic Design**. Here’s a little about me: <br/>
+I'm an aspiring **web developer** and programmer, always looking for optimal and efficient solutions. Besides development, I am also extremely interested in **Data Engineering, Analytics📊, Computer Architecture and Digital Logic Design**. Here’s a little about me: <br/>
 - 🌐 **Web Development Enthusiast:** Skilled in **ReactJS, NextJS, TailwindCSS, and Firebase**. I enjoy building interactive, user-friendly applications. <br/>
 - 💻 **Programming Experience:** Proficient in various languages like **Python, C++, C, Java, JavaScript, R, RISC-V, Scheme** and ofcourse **HTML/CSS** ; with a solid foundation in algorithms and problem-solving. <br/>
 -🟰: **Mathematics Enthusiast:** I've been fascinated by the field of Mathematics ever since childhood. I've secured top grades in courses like Differential Equations, Linear Algebra, Probability & Statistics, Calculus and Discrete Mathematics in a batch-size of about 400 students here at IIT Ropar.
