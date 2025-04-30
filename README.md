@@ -21,7 +21,7 @@ I'm an aspiring **web developer** and programmer, always looking for optimal and
 ## My GitHub stats <br/>
 <p align='center'>
   <img  height=150 src='https://github-readme-stats.vercel.app/api?username=Nishant-Sahni&count_private=true&include_all_commits=true&theme=algolia&show_icons=true' />
-  <img  height=150 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Sahni&layout=compact&theme=algolia&langs_count=10&hide=html,css' /> <br/>
+<!--   <img  height=150 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Sahni&layout=compact&theme=algolia&langs_count=10&hide=html,css' /><br/> -->
 </p>
 
 
