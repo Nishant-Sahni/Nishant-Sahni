@@ -28,7 +28,7 @@ I’m a **Computer Science & Engineering** undergraduate at **IIT Ropar, India**
 🔗 [Website](https://iitrpr.ac.in/aarohan) · **Web Development Co-Head**
 
 * Leading the web team for IIT Ropar’s annual sports fest
-* Designed responsive UI/UX and integrated real-time event data
+* Designed responsive UI/UX and integrated real-time event data via Google Cloud API.
 
 ### VDAT 2025 (VLSI Design and Test Conference)
 
@@ -38,14 +38,14 @@ I’m a **Computer Science & Engineering** undergraduate at **IIT Ropar, India**
 * Implemented event registration and abstracts management
 
 ### Compression Analysis (Course Project)
-
+[GitHub](https://github.com/Nishant-Sahni/CS201_Project)
 * Collaborated on a C-based text & image compression system
 * Implemented Huffman Coding, Run-Length Encoding, and LZW with dynamic hash tables
 * Built a BMP image compressor and selective RLE encoder for images/text
 * Integrated efficient file I/O and validated on sample files, achieving high compression ratios
 
 ### Analysis of Social Network (Course Project)
-
+[GitHub](https://github.com/Nishant-Sahni/Analysis-of-Social-Networks)
 * Designed algorithms for leader identification and missing-link prediction in social impression networks
 * Applied matrix methods and graph metrics using Python & network analysis libraries
 
