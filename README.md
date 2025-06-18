@@ -1,34 +1,91 @@
-# 👋 Hello , I'm Nishant !
+# 👋 Hello, I'm Nishant Sahni
 
-_and this README isn't written by ChatGPT :)_
+*and this README isn't written by ChatGPT :)*
 
-## Computer Science & Engineering Undergraduate , IIT Ropar , India <br/>
-Welcome to my GitHub! <br/>
-I'm an aspiring **web developer** and programmer, always looking for optimal and efficient solutions. Besides development, I am also extremely interested in **Data Engineering, Analytics📊, Computer Architecture and Digital Logic Design**. Here’s a little about me: <br/>
-- 🌐 **Web Development Enthusiast:** Skilled in **ReactJS, NextJS, TailwindCSS, and Firebase**. I enjoy building interactive, user-friendly applications. <br/>
-- 💻 **Programming Experience:** Proficient in various languages like **Python, C++, C, Java, JavaScript, R, RISC-V, Scheme** and ofcourse **HTML/CSS** ; with a solid foundation in algorithms and problem-solving. <br/>
--🟰: **Mathematics Enthusiast:** I've been fascinated by the field of Mathematics ever since childhood. I've secured top grades in courses like Differential Equations, Linear Algebra, Probability & Statistics, Calculus and Discrete Mathematics in a batch-size of about 400 students here at IIT Ropar.
-- 🗣️ **Avid Debater:** I've participated in, organized, and won medals in various parliamentary debate tournaments in college.<br/><br/>
+---
 
-**Contributions**
-- <a href="https://iitrpr.ac.in/aarohan" target="_blank">Aarohan 2025</a> : Developed and managing the website of the Annual Sports Fest of IIT Ropar.
-- Public Entry Device :  Created an end-to-end infrastructure to completely digitize the Entry-Exit process at the Main Campus Gate of IIT Ropar. This infrastructure will be used for years and decades to come. _Sadly , the source code is proprietary_.
-- [🔗 VDAT2025](https://github.com/AyushTyagi2/VDAT) - Developing and managing the website of the annual **[VLSI Design and Test conference](https://vdat.org.in)**.
-<br/><br/>
+## 🎓 About Me
 
-**Projects :**  I will soon be showcasing 3 to 4 web development projects that I am currently working on, on this profile.I have already showcased 2 projects that were part of my coursework here at IIT Ropar.<br/><br/>
+I’m a **Computer Science & Engineering** undergraduate at **IIT Ropar, India**. Aspiring **web developer** with a passion for **high-performance computing**, **data engineering**, and **digital logic design**.
 
-## My GitHub stats <br/>
-<p align='center'>
-  <img  height=150 src='https://github-readme-stats.vercel.app/api?username=Nishant-Sahni&count_private=true&include_all_commits=true&theme=algolia&show_icons=true' />
-<!--   <img  height=150 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Sahni&layout=compact&theme=algolia&langs_count=10&hide=html,css' /><br/> -->
-</p>
+* 🌐 **Web Development**: React.js · Next.js · Tailwind CSS · Firebase
+* 🚀 **HPC & Parallel Programming**: Intermediate in CUDA; comparing CUDA vs. HIP under Prof. Dr. T.V. Kalyan’s supervision
+* 💻 **Low-Level Systems**: Built a RISC-V32 simulator with my team — *\[link coming soon!]*
+* 📊 **Data Engineering & Analytics**: Python · SQL · MQTT · BACnet
+* 🧮 **Mathematics**: Top grades in Calculus, Linear Algebra, Differential Equations, Discrete Math, Probability & Statistics
+* 🗣️ **Debate & Leadership**: Coordinated and won tournaments; strong public speaking skills
 
+---
 
+## 🏆 Key Contributions & Projects
 
-## Connect with me
-- [LinkedIn](www.linkedin.com/in/nishant-sahni-a7b01130a)
-- Email: nishantsahni04@gmail.com
+### Entry Management for IIT Ropar
 
+> Developed a full-stack web app to digitize the entry/exit process at IIT Ropar’s Main Gate. Built in collaboration with the Software Community of IIT Ropar (authorized by President Student Council), this system will be deployed long-term.
 
+### Aarohan 2025
 
+🔗 [Website](https://iitrpr.ac.in/aarohan) · **Web Development Co-Head**
+
+* Leading the web team for IIT Ropar’s annual sports fest
+* Designed responsive UI/UX and integrated real-time event data
+
+### VDAT 2025 (VLSI Design and Test Conference)
+
+🔗 [VDAT on GitHub](https://github.com/AyushTyagi2/VDAT) · [Conference](https://vdat.org.in)
+
+* Developed and maintain the conference website
+* Implemented event registration and abstracts management
+
+### Compression Analysis (Course Project)
+
+* Collaborated on a C-based text & image compression system
+* Implemented Huffman Coding, Run-Length Encoding, and LZW with dynamic hash tables
+* Built a BMP image compressor and selective RLE encoder for images/text
+* Integrated efficient file I/O and validated on sample files, achieving high compression ratios
+
+### Analysis of Social Network (Course Project)
+
+* Designed algorithms for leader identification and missing-link prediction in social impression networks
+* Applied matrix methods and graph metrics using Python & network analysis libraries
+
+---
+
+## 📚 Coursework Highlights
+
+* Computer Architecture · Data Structures · Programming Paradigms
+* Digital Logic Design · Discrete Mathematical Structures
+* Probability & Statistics · Differential Equations · Signals & Systems
+
+---
+
+## 🛠️ Technical Skills
+
+| Domain                   | Tools & Languages                            |
+| ------------------------ | -------------------------------------------- |
+| **Web Development**      | React.js · Next.js · Tailwind CSS · Firebase |
+| **HPC & Parallel**       | CUDA · HIP · OpenMP · MPI                    |
+| **Systems & Architect.** | RISC-V · C · C++ · Embedded Linux            |
+| **Data Engineering**     | Python · SQL · MQTT · BACnet · Pandas        |
+| **Mathematics**          | Discrete Math · Linear Algebra · Calculus    |
+
+---
+
+## 🎖️ Achievements
+
+* **JEE Advanced 2023**: All India Rank 1777
+* **Hackathon Winner** at IIT Ropar Overnight Hackathon (Software Community)
+* **Debate Champion**: Medals in inter-college parliamentary debates
+
+---
+
+## 📫 Connect with Me
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/nishant-sahni-a7b01130a)
+* 📧 [nishantsahni04@gmail.com](mailto:nishantsahni04@gmail.com)
+* 🐙 [GitHub](https://github.com/Nishant-Sahni)
+
+---
+
+✨ *More projects and links coming soon!*
+Stay tuned for additional showcases of my work in web development, HPC, and digital systems.
