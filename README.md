@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I’m a **Computer Science & Engineering** undergraduate at **IIT Ropar, India**. Aspiring **web developer** with a passion for **high-performance computing**, **data engineering**, and **digital logic design**.
+I’m a **Computer Science & Engineering** undergraduate at **IIT Ropar, India**. Aspiring **web developer** also with a great passion for **high-performance computing**.
 
 * 🌐 **Web Development**: React.js · Next.js · Tailwind CSS · Firebase
 * 🚀 **HPC & Parallel Programming**: Intermediate in CUDA; comparing CUDA vs. HIP under Prof. Dr. T.V. Kalyan’s supervision
