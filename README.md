@@ -6,15 +6,8 @@
 
 ## 🎓 About Me
 
-Computer Science & Engineering undergraduate at **IIT Ropar**, India. Aspiring **web developer** with a great passion for **high-performance computing**.
+Computer Science & Engineering undergraduate at **IIT Ropar**, India. Aspiring **web developer** with a great passion for **Full-Stack Development** , building **Automation Workflows** and **high-performance computing**.
 
-- 🌐 **Web Development:** React.js · Next.js · Tailwind CSS · Firebase
-- 🚀 **HPC & Parallel Programming:** Intermediate in CUDA; comparing CUDA vs. HIP under Prof. Dr. T.V. Kalyan's supervision
-- 💻 **Low-Level Systems:** Built a RISC-V32 simulator with my team (link coming soon)
-- 🖥️ **Languages:** C · C++ · Python · Java · JavaScript · RISC-V32 · Prolog · Scheme · R · CUDA
-- 📊 **IoT:** MQTT · BACnet
-- 🧮 **Mathematics:** Top grades in Calculus, Linear Algebra, Differential Equations, Discrete Math, Probability & Statistics
-- 🗣️ **Debate & Leadership:** Coordinated and won tournaments; strong public speaking skills
 
 ---
 
