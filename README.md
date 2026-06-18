@@ -36,9 +36,16 @@ FMP is a full-stack logistics dispatch system that replaces the ad-hoc, WhatsApp
 
 🔗 **Live:** [fmp-dep.vercel.app](https://fmp-dep.vercel.app/)
 
-### 2. Entry Management for IIT Ropar
+### 2. PED (Public Entry Device)
 
-Full-stack web app to digitize the entry/exit process at IIT Ropar's Main Gate. Built in collaboration with the Software Community of IIT Ropar (authorized by the President, Student Council) and slated for long-term deployment.
+PED is a Next.js progressive web app that digitizes IIT Ropar's campus entry and exit logging, replacing the manual paper register at the gate. It is relevant because it turns an everyday institutional security and accountability problem into structured, auditable, real-time data at scale.
+
+- Built on Next.js 15 (App Router) and React 19, deployed on Vercel as an installable PWA with offline support and push notifications.
+- Implements a one-time QR workflow where gate-side codes are written to Firebase Realtime Database, then validated, consumed, and deleted on scan to prevent reuse.
+- Models movement as a stateful round-trip in Firestore, with a single record capturing both departure and return to enable live "currently outside" detection.
+- Secures access through Google OAuth scoped to the institute domain, role-based routing, and hardened HTTP headers (CSP, X-Frame-Options, nosniff).
+- Surfaces an admin analytics dashboard (Recharts) with inside/outside, branch-wise, year-wise, and temporal trend insights derived from entry-number conventions.
+- Automates compliance via a scheduled Vercel cron that emails students with incomplete entries and a daily summary to administrators.
 
 ### 3. Aarohan 2025
 
@@ -74,34 +81,36 @@ Annual sports fest of IIT Ropar. Role: **Web Development Co-Head**.
 
 ---
 
-## 📚 Coursework Highlights
-
-- Computer Architecture · Data Structures · Programming Paradigms
-- Digital Logic Design · Discrete Mathematical Structures
-- Probability & Statistics · Differential Equations · Signals & Systems
-
----
-
 ## 🛠️ Technical Skills
 
 | Domain | Tools & Languages |
 | --- | --- |
-| **Web Development** | React.js · Next.js · Tailwind CSS · Firebase |
-| **HPC & Parallel** | CUDA · HIP · OpenMP · MPI |
-| **Systems & Architecture** | RISC-V · C · C++ · Embedded Linux |
-| **Data Engineering** | Python · SQL · MQTT · BACnet · Pandas |
-| **Mathematics** | Discrete Math · Linear Algebra · Calculus |
+| **Web & App Development** | Flutter · ASP.NET Core · Streamlit · PostgreSQL · React.js · Next.js · Firebase · Tailwind CSS · Material UI · PWA · HTML/CSS |
+| **Cloud & Hosting** | AWS · Docker · Vercel · Snowflake |
+| **HPC & Parallel** | OpenMPI · Schedgen · CUDA · HIP · GPU Programming |
+| **Automation & Data Engineering** | n8n · Python · SQL · Pandas |
+| **Languages** | Python · JavaScript · C · C++ · RISC-V32 |
+| **Mathematics** | Game Theory · Probability · Discrete Math · Linear Algebra · Calculus |
+
 
 ---
 
 ## 🎖️ Achievements
 
-- **JEE Advanced 2023:** All India Rank 1777
+- **JEE Advanced 2023:** All India Rank **1777**
 - **Hackathon Winner:** IIT Ropar Overnight Hackathon (Software Community)
 - **Debate Champion:** Medals in inter-college parliamentary debates
 
 ---
 
+
+## 📚 Coursework Highlights
+
+ Operating Systems, Software Engineering, Game Theory, Theory of Computation, Computer
+Networks, Databases, Programming Paradigms & Pragmatics, Computer Architecture, Data Structures, Probability &
+Statistics, Linear Algebra
+
+---
 ## 📫 Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nishant-sahni-a7b01130a)
