@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Nishant Sahni
 
-*...and this README isn't written by ChatGPT.*
 
 ---
 
